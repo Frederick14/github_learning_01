@@ -1,5 +1,6 @@
 module test04(
-    input clk
+    input  clk,
+    output dout
 );
 
 endmodule
